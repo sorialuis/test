@@ -1,0 +1,3 @@
+s = "chau"
+
+print(s)
